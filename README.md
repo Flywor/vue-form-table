@@ -3,7 +3,7 @@
 
 [在线演示](https://flywor.github.io/vue-form-table/dist/index.html " 在线演示")     
      
-[演示代码](https://flywor.github.io/vue-form-table/src/app.vue " 演示代码")      
+[演示代码](https://github.com/Flywor/vue-form-table/blob/master/src/App.vue " 演示代码")      
 
 ###
 * 说明    
