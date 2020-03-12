@@ -47,10 +47,7 @@
   }
 ```
 
-* 如果你觉得不错，可以帮忙点个star表示支持，也可以请我喝杯冰阔落  
-     
-![image](https://flywor.github.io/vue-form-table/images/wechart_pay.png)    
-     
+* 如果你觉得不错，可以帮忙点个star表示支持，
 * 联系方式    
 QQ和邮箱： 244406664    
 微信：    
